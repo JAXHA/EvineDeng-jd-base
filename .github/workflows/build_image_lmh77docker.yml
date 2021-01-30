@@ -1,5 +1,5 @@
 
-name: "构建lmh77/evinedeng/jd镜像"
+name: "构建lmh77docker镜像"
 on:
   workflow_dispatch:
   
