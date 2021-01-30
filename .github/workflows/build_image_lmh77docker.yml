@@ -1,6 +1,7 @@
 
 name: "构建lmh77docker镜像"
 on:
+  push:
   workflow_dispatch:
   
 jobs:
